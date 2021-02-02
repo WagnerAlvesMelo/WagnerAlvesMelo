@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wagner Alves de Melo</h1>
-<h3 align="center">A fullstack developer from Brasil</h3>
+<h3 align="center">A Fullstack Developer from Brasil</h3>
 
 - 🔭 I’m currently working on: **Redfox Digital Solutions**
 
