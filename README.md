@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wagner Alves de Melo</h1>
 <h3 align="center">A fullstack developer from Brasil</h3>
 
-- 🔭 I’m currently working on **Redfox Digital Solutions**
+- 🔭 I’m currently working on: **Redfox Digital Solutions**
 
-- 🌱 I’m currently learning **Next.JS and Front-End tests**
+- 🌱 I’m currently learning: **Next.JS and Front-End tests**
 
 - 👨‍💻 **Developing a portfolio**
 
-- 💬 Ask me about **React and Node**
+- 📫 How to reach me: **walves13@outlook.com**
 
-- 📫 How to reach me **walves13@outlook.com**
-
-- 📄 Know about my experiences [I work as Fullstack Developer for over a year](I work as Fullstack Developer for over a year)
+- 📄 Experience: **I work as Fullstack Developer for over a year**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
