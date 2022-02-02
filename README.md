@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **walves13@outlook.com**
 
-- 📄 Experience: **I work as Fullstack Developer for over a year**
+- 📄 Experience: **I work as Fullstack Developer for over three years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
